@@ -5,10 +5,7 @@ The original repo is a fork from [This GitHub Repo](https://github.com/vycoder/v
 
 #### Posts
 The blogposts are written in Markdown. I edit my markdown at [StackEdit.io](https://stackedit.io/). The styling for each individual markdown posts is also from [Stackedit](https://stackedit.io/style.css)
-
 I get my svg vectors from [SVGREPO](https://www.svgrepo.com/)
-
-
-I generated all favicons from [FaviconIo](https://favicon.io/favicon-generator/).
+I generated all favicons from [FaviconIo](https://favicon.io/favicon-generator/)
 #### Deployment
 I have deployed on [Digital Ocean](https://www.digitalocean.com/)

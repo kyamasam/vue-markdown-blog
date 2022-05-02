@@ -1,48 +1,30 @@
 {
-  "2019": [
+  "Software": [
     {
-      "id": "vue-markdown-blog",
-      "date": "March 18, 2019",
-      "title": "Creating a Simple Blog using Vue + Markdown",
-      "description": "Simple and neat way to add a blogging feature to add on your website."
+      "id": "deploy-django-application-with-postgres-ubuntu-20-04",
+      "date": "May 2 2022",
+      "title": "Deploy A Django Application on Ubuntu 20.04 and Postgres",
+      "description": "How to deploy a Django application on Ubuntu 20.04 Postgres Without docker"
+    },
+    {
+      "id": "deploy-vue-js-ubuntu-20-node-14",
+      "date": "May 2 2022",
+      "title": "Deploy Vue JS Application on Ubuntu 20.04",
+      "description": "How to deploy a vue js application on Ubuntu 20.04"
+    },
+    {
+      "id": "how-i-made-this",
+      "date": "May 2 2022",
+      "title": "How I Made This Blog",
+      "description": "Find out how I made this blog in VueJS"
     }
   ],
-  "stories": [
+  "God": [
     {
-      "id": "maud-sparrow",
-      "date": "April 21, 2018",
-      "title": "Maud Sparrow and the Four Wicked Horses",
-      "description": "Once upon a time there was a generous girl called Maud Sparrow. She was on the way to see her Albert Connor, when she decided to take a short cut through Spittleton Woods..."
-    },
-    {
-      "id": "nico-borbaki",
-      "date": "May 5, 2018",
-      "title": "Nefarious Nico Borbaki",
-      "description": "Nico Borbaki looked at the enchanted newspaper in his hands and felt conflicted..."
-    },
-    {
-      "id": "jack-butterscotch",
-      "date": "June 10, 2018",
-      "title": "Jack Butterscotch | The Dragon",
-      "description": "In a hole there lived a tender, silver dragon named Jack Butterscotch. Not an enchanted red, stripy hole, filled with flamingos and a cold smell, nor yet a short, hairy, skinny hole with nothing in it to sit down on or to eat: it was a dragon-hole, and that means happiness..."
-    },
-    {
-      "id": "tiny-arrow-wars",
-      "date": "July 27, 2018",
-      "title": "Galactic Tiny Arrow Wars",
-      "description": "A long, long time ago in a tiny, tiny galaxy..."
-    },
-    {
-      "id": "gargoyle-club",
-      "date": "August 7, 2018",
-      "title": "Club of Gargoyle",
-      "description": "Molly Thornhill suspected something was a little off when her creepy daddy tried to club her when she was just six years old. Nevertheless, she lived a relatively normal life among other humans."
-    },
-    {
-      "id": "simon-plumb",
-      "date": "September 20, 2018",
-      "title": "Simon Plumb and the Two Kind Gerbils",
-      "description": "Once upon a time there was a virtuous boy called Simon Plumb. He was on the way to see his Annie Superhalk, when he decided to take a short cut through Thetford Forest..."
+      "id": "go-forth-you-mighty-warrior",
+      "date": "May 2 2022",
+      "title": "Go forth, you mighty warrior !",
+      "description": "1 Peter 5\n 7Give all your worries and cares to God, for he cares about you.\n8Stay alert! Watch out for your great enemy, the devil. He prowls around like a roaring lion, looking for someone to devour. 9Stand firm against him, and be strong in your faith. Remember that your family of believers all over the world is going through the same kind of suffering you are."
     }
   ]
 }

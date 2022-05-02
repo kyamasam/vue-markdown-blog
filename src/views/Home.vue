@@ -1,7 +1,17 @@
 <template>
   <div class="home">
-    <h1 class="headline center">v-m-blog</h1>
-    <img alt="Vue logo" src="../assets/logo.png">
+    <div class="container">
+      <h5 class="headline center">A blog by Samfast1</h5>
+    </div>
+    <div class="container">
+      <a href="https://twitter.com/kyamasam" class="container" target="_blank">
+        <img alt="Twitter Icon" class="container-item" src="@/assets/twitter-icon.svg"/> <span class="container-item">Twitter</span>
+      </a>
+      <a href="https://github.com/kyamasam" class="container" target="_blank">
+        <img alt="Github Icon" class="container-item" src="@/assets/github-icon.svg"/> <span class="container-item">Github</span>
+      </a>
+    </div>
+
     <div class="sections">
       <div v-for="(section, index) in Object.keys(entries)" :key="index" class="group">
         <h2 class="center">{{section}}</h2>
@@ -32,18 +42,26 @@ export default {
 }
 </script>
 <style lang="scss" scoped>
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.container-item{
+  margin: 2px;
+}
 .center {
   text-align: center;
 }
 .headline {
   text-transform: uppercase;
-  margin: 4rem auto;
-  font-size: 4rem;
+  margin: 2rem;
+  font-size: 3rem;
 }
 img {
-  display: block;
+  display: inline-block;
   margin: 0 auto;
-  width: 150px;
+  width: 20px;
 }
 
 h2 {
@@ -72,7 +90,7 @@ p {
 }
 
 .sections {
-  max-width: 40vw;
+  max-width: 70vw;
   margin: 0 auto;
   margin-top: 4rem;
 }
