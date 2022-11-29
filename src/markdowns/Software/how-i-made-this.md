@@ -8,4 +8,4 @@ The blogposts are written in Markdown. I edit my markdown at [StackEdit.io](http
 I get my svg vectors from [SVGREPO](https://www.svgrepo.com/)
 I generated all favicons from [FaviconIo](https://favicon.io/favicon-generator/)
 #### Deployment
-I have deployed on [Digital Ocean](https://www.digitalocean.com/)
+I have deployed on [Netlify](https://www.netlify.com/)
