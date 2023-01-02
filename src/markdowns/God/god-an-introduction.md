@@ -2,7 +2,7 @@
 
 ## A dying son
 It was a calm evening,the sun was setting as the sheep were entering their shed. Mary was doing the final touches on her dinner.
-It has been a while since Joseph died. Her children were all grown by now. Safe for the occasional sound 
+It had been a while since Joseph died. Her children were all grown by now. Safe for the occasional sound 
 of the bleating sheep and the children playing from a distance, the silence was loud. She could never get herself to get rid of his carpentry workshop, 
 too many memories there. He loved working with his hands, and always made the finest tables. She remembered taking him food there as he taught Jes and the other kids the ins and outs of wood work.
 
