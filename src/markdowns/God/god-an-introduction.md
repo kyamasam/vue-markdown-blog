@@ -28,8 +28,8 @@ shame and grief.
 They hang her son that day on a cross, and all the while He never said a word. As He hung his head and breathed His last mortal breath,
 she felt the dagger go through her heart, the pangs of heartbreak in her mouth, the pain of a dying son. She loved Him dearly. 
 
-If you haven't figured it out by now, this story is about Mary and Jesus son is Jesus, and my imagination of a simplified version of the story.
-You can find the story [in Mark 15 here](https://www.biblegateway.com/passage/?search=Mark%2015%3A21-41&version=NIV.) He died for the sake of you and me. 
+If you haven't figured it out by now, this story is about Mary and her son Jesus, and my imagination of a simplified version of the story.
+You can find the story [in Mark 15 here.](https://www.biblegateway.com/passage/?search=Mark%2015%3A21-41&version=NIV.) He died for the sake of you and me. 
 
 ## A World Of Hurting People
 There's something about pain and tragedy that we cannot put on paper, or explain if we wanted to. It pushes us to seek a power beyond
@@ -38,10 +38,10 @@ God. I wish I could explain Him, He refuses to be put into words. He's like a pe
 their qualities, show me their photos, but I can never really know what they're like until I meet them. 
 
 ## The Person
-Unlike philosophies that describe God as a force of the universe, I'd like to present a person, a friend. He's kind of expressive, so He writes letters.
+Unlike philosophies that describe God as a force of the universe, I'd like to present a person, a friend. He's kind of expressive, He writes letters, He speaks.
 He has a 66 book volume about Him and by Him. He feels, He gets angry, He gets jealous, and most of all He Loves, in fact He likes 
 to be called Love. He understands the human condition, that 66 volume love letter talks about how He became a man, lived and walked 
-with men. He came under the full wrath of angry and confused men, He experienced the warm hug of friendship and the bitter kiss 
+among men. He came under the full wrath of angry and confused men, He experienced the warm hug of friendship and the bitter kiss 
 of betrayal. He was stripped naked by angry men and spat on by shouting women. He died in the hands of the very men He cared most about.
 
 Meet the God who understands the plight of man kind, one who hates sin but loves the sinner at the same time. 
