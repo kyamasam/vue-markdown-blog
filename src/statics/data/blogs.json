@@ -1,4 +1,19 @@
 {
+
+  "God": [
+    {
+      "id": "god-an-introduction",
+      "date": "1 Jan 2023",
+      "title": "God, An Introduction: Part 1",
+      "description": "In this short series, I'll attempt to introduce God in a relatable manner using some stories, extrapolations and Biblical references. From re imaginations of Biblical accounts to personal experiences, I will attempt to shed a light on the God I believe"
+    },
+    {
+      "id": "go-forth-you-mighty-warrior",
+      "date": "May 2 2022",
+      "title": "Go forth, you mighty warrior !",
+      "description": "1 Peter 5\n 7Give all your worries and cares to God, for he cares about you.\n8Stay alert! Watch out for your great enemy, the devil. He prowls around like a roaring lion, looking for someone to devour. 9Stand firm against him, and be strong in your faith. Remember that your family of believers all over the world is going through the same kind of suffering you are."
+    }
+  ],
   "Software": [
     {
       "id": "deploy-django-application-with-postgres-ubuntu-20-04",
@@ -17,20 +32,6 @@
       "date": "May 2 2022",
       "title": "How I Made This Blog",
       "description": "Find out how I made this blog in VueJS"
-    }
-  ],
-  "God": [
-    {
-      "id": "god-an-introduction",
-      "date": "1 Jan 2023",
-      "title": "God, An Introduction: Part 1",
-      "description": "In this short series, I'll attempt to introduce God in a relatable manner using some stories, extrapolations and Biblical references. From re imaginations of Biblical accounts to personal experiences, I will attempt to shed a light on the God I believe"
-    },
-    {
-      "id": "go-forth-you-mighty-warrior",
-      "date": "May 2 2022",
-      "title": "Go forth, you mighty warrior !",
-      "description": "1 Peter 5\n 7Give all your worries and cares to God, for he cares about you.\n8Stay alert! Watch out for your great enemy, the devil. He prowls around like a roaring lion, looking for someone to devour. 9Stand firm against him, and be strong in your faith. Remember that your family of believers all over the world is going through the same kind of suffering you are."
     }
   ]
 }

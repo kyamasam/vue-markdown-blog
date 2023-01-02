@@ -56,12 +56,16 @@ export default {
 .headline {
   text-transform: uppercase;
   margin: 2rem;
-  font-size: 3rem;
+  font-size: 2rem;
 }
 img {
   display: inline-block;
   margin: 0 auto;
   width: 20px;
+}
+h1, h2, h3, h4, h5, h6 {
+  margin: 0.8em 0;
+  line-height: 1.33;
 }
 
 h2 {
@@ -87,6 +91,7 @@ h3 {
 
 p {
   margin-top: .4rem;
+  font-size: 20px !important;
 }
 
 .sections {

@@ -6,14 +6,20 @@
   </div>
 </template>
 <style lang="scss" scoped>
+
+p {
+  margin-top: .4rem;
+  font-size: 20px !important;
+}
+
 .blog {
-  max-width: 80vw;
+  max-width: 90vw;
   margin: 0 auto;
 
   .back {
     background-color: #42b883;
     color: white;
-    margin-top: 5rem;
+    margin-top: 2rem;
     text-decoration: none;
     padding: 10px 15px;
     border: 1px solid currentColor;
