@@ -4,10 +4,12 @@ extra_css:
 theme:
   name: material
   features:
-    - navigation.tabs
     - navigation.path
+    - navigation.tabs
     - toc.follow
     - navigation.sections
+    - navigation.expand
+    - navigation.indexes 
     - navigation.top
     - search.suggest
     - search.highlight
@@ -15,7 +17,7 @@ theme:
     - content.code.annotation
     - content.code.copy
   palette:
-    - primary: "blue gray"
+    - primary: "teal"
     - scheme: default
       accent: teal
       toggle:
@@ -29,10 +31,10 @@ theme:
   font:
     text: Roboto
     code: Roboto Mono
-  favicon: ./assets/square-logo.png
+  favicon: ./assets/sam-logo.png
   icon:
     logo: logo
-  logo: ./assets/asdf-logo-transparent.png
+  logo: ./assets/sam-logo-white.png
 
 # Plugins
 plugins:
@@ -88,7 +90,16 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
 nav:
-  - Home: index.md
+  - Home: 
+        Welcome: index.md
+        Work With Me: work-with-me.md
   - God: 
-        - Getting Started: sections/bimaTap/gettingstarted.md
-
+        - Go Forth You Mighty Warrior: sections/God/go-forth-you-mighty-warrior.md
+        - God - An Introduction: sections/God/god-an-introduction.md
+  - Software:
+        - Deploy Django Application With Postgres and Ubuntu 20.04: sections/Software/deploy-django-application-with-postgres-ubuntu-20-04.md
+        - Deploy Vue Js Application Ubuntu 20 and Node 14: sections/Software/deploy-vue-js-ubuntu-20-node-14.md
+        - How I Made This Blog: sections/Software/how-i-made-this.md
+  - Portfolio:
+        - Software Development: sections/portfolio/software-development-portfolio.md
+        - Web Development: sections/portfolio/website-development-portfolio.md
