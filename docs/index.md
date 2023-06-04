@@ -1,5 +1,11 @@
-# Meet Samuel Kyama 
-
+```js
+function returnContactInformation(){ 
+    return {
+        "mail":"samfastone@gmail.com",
+        "phone":"+254716651687"
+    }
+}
+```
 ### About Me
 ![Image title](./assets/portrait-photo-samuel.png){ align=left }
 

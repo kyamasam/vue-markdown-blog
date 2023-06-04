@@ -91,7 +91,7 @@ markdown_extensions:
   - pymdownx.superfences
 nav:
   - Home: 
-        Welcome: index.md
+        Meet Samuel Kyama: index.md
         Work With Me: work-with-me.md
   - God: 
         - Go Forth You Mighty Warrior: sections/God/go-forth-you-mighty-warrior.md
@@ -103,3 +103,5 @@ nav:
   - Portfolio:
         - Software Development: sections/portfolio/software-development-portfolio.md
         - Web Development: sections/portfolio/website-development-portfolio.md
+  - Business Cards:
+        - Business Cards: sections/business-cards.md
