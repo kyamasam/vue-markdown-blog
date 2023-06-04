@@ -1,1 +1,0 @@
-How to discern the word of God 
