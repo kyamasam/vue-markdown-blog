@@ -103,5 +103,5 @@ nav:
   - Portfolio:
         - Software Development: sections/portfolio/software-development-portfolio.md
         - Web Development: sections/portfolio/website-development-portfolio.md
-  - Business Cards:
+  - Contact:
         - Contact Information: sections/business-cards.md
