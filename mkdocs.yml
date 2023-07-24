@@ -100,6 +100,13 @@ nav:
         - Deploy Django Application With Postgres and Ubuntu 20.04: sections/Software/deploy-django-application-with-postgres-ubuntu-20-04.md
         - Deploy Vue Js Application Ubuntu 20 and Node 14: sections/Software/deploy-vue-js-ubuntu-20-node-14.md
         - How I Made This Blog: sections/Software/how-i-made-this.md
+  - Software - Django Rest:
+    - Django Rest Tutorial- Getting Started: sections/Software/django-rest/creating-django-rest-project.md
+    - Getting Started With Django Rest part 2: sections/Software/django-rest/getting-started-with-djangorest-2.md
+    - Getting Started With Django Rest part 3: sections/Software/django-rest/getting-started-with-djangorest-3.md
+    - Getting Started With Django Rest part 4: sections/Software/django-rest/getting-started-with-djangorest-4.md
+
+
   - Portfolio:
         - Software Development: sections/portfolio/software-development-portfolio.md
         - Web Development: sections/portfolio/website-development-portfolio.md
