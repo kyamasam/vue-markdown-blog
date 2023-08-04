@@ -7,7 +7,7 @@ cd myProject
 
 # Create a virtual environment to isolate our package dependencies locally
 ```
-python3 -m venv venv
+virutalenv venv # On windowsuse  `python3 -m venv venv`
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 ```
 # Install Django and Django REST framework into the virtual environment
@@ -18,7 +18,6 @@ pip install djangorestframework
 # Set up a new project with a single application
 ```
 django-admin startproject myProject .  # Note the trailing '.' character
-cd myProject
 django-admin startapp core
 cd ..
 ```
