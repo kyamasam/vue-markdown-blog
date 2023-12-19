@@ -26,7 +26,7 @@ I studied at "The University" as they like to call it. At UoN I the technicaliti
 
 
 #### My Work :tools:
-I have been priviled to work on projects in Kenya and Tanzania and my work has been used by over `30 million people`. Most notably, I was the lead engineer in building [chanjo.health.co.ke](https://chanjo.health.co.ke/) and [portal.health.co.ke](https://portal.health.co.ke) for the Kenya government. This platform went on to be used during the Covid-19 Pandemic by over `17 Million Kenyans` for vaccination. Certificates generated on the platform were verified and recognized by other countries including the Uk government.
+I have been privileged  to work on projects in Kenya and Tanzania and my work has been used by over `30 million people`. Most notably, I was the lead engineer in building [chanjo.health.co.ke](https://chanjo.health.co.ke/) and [portal.health.co.ke](https://portal.health.co.ke) for the Kenya government. This platform went on to be used during the Covid-19 Pandemic by over `17 Million Kenyans` for vaccination. Certificates generated on the platform were verified and recognized by other countries including the Uk government.
 
 You can see more cool stuff I have worked on under the [portfolio section of this website](sections/portfolio/software-development-portfolio.md).
 
