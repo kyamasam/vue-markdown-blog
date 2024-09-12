@@ -1,6 +1,6 @@
 # How to SSH into server without typing the full command 
 
-## open your console profile 
+## 1. open your console profile 
 
 eg im using Zsh
 
