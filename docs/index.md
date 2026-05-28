@@ -26,7 +26,7 @@ I mostly work on products that sit at the intersection of `software engineering`
 
 - AI-powered platforms such as [LitCareers](https://www.litcareers.org/){ target="_blank" rel="noopener" }, where users upload CVs, get matched with relevant jobs, and receive AI-driven CV improvement suggestions.
 - AI/ML-enabled media products such as [Piczangu](https://piczangu.com/){ target="_blank" rel="noopener" }, a photo storage platform with facial recognition based retrieval.
-- Public health platforms such as [Chanjo Kenya](https://chanjo.health.go.ke/){ target="_blank" rel="noopener" } and the [Kenya Ministry of Health Vaccination Portal](https://portal.health.go.ke/){ target="_blank" rel="noopener" }, which supported Covid-19 vaccination records, certificates, reporting, and facility workflows.
+- Public health platforms such as [Chanjo Kenya](https://chanjo.health.go.ke/){ target="_blank" rel="noopener" } and the Kenya Ministry of Health Vaccination Portal, which supported Covid-19 vaccination records, certificates, reporting, and facility workflows.
 - Fintech and payment systems, including M-Pesa integrations, paybill abstractions, payment APIs, and business tools for Kenyan companies.
 - Infrastructure and automation products such as SFNetworks, a VPS provisioning platform built around Django REST, Next.js, Proxmox, and M-Pesa.
 - Web platforms for organizations in education, insurance, church ministry, legal services, and enterprise operations.

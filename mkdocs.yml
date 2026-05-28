@@ -91,9 +91,10 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
 nav:
-  - Home: 
-        Meet Samuel Kyama : index.md
-        Work With Me: work-with-me.md
+  - Home:
+        - Meet Samuel Kyama: index.md
+        - CV: cv.md
+        - Work With Me: work-with-me.md
   - God: 
         - Go Forth You Mighty Warrior: sections/God/go-forth-you-mighty-warrior.md
         - God - An Introduction: sections/God/god-an-introduction.md
