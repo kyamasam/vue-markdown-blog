@@ -7,6 +7,7 @@ I have been developing software for about 4 years now, I cannot list all the pro
     LitCareers is an AI-powered job listing platform that helps users find jobs that best match their skills. Users can upload their CVs, receive recommended jobs that fit their experience, and get AI-driven suggestions for improving their CVs.
 
     Stack - DjangoRest, NEXT
+
     **Involvement**
 
     Built the platform and implemented the AI-powered job matching and CV improvement recommendation workflows.
@@ -34,6 +35,7 @@ I have been developing software for about 4 years now, I cannot list all the pro
     Piczangu is a photo storage platform that allows users to store photos and retrieve them using AI/ML-enabled facial recognition.
     
     Stack - DjangoRest, VueJs, AWS
+
     **Involvement**
 
     Built the platform and implemented the photo storage and facial recognition based retrieval features.
@@ -43,6 +45,7 @@ I have been developing software for about 4 years now, I cannot list all the pro
     This is an API wrapper that allows users to manage multiple paybills through a single abstracted API on Top of Daraja. It supports M-Pesa B2C, C2B, balance checks, transaction status checks, callback handling, and callback registration. Currently running 4 Paybills on this.
 
     Stack - DjangoRest
+
     **Involvement**
 
     Designed and developed the wrapper to simplify M-Pesa integrations across multiple paybills and transaction flows.
@@ -52,6 +55,7 @@ I have been developing software for about 4 years now, I cannot list all the pro
     Lush and Lux is a full-fledged e-commerce platform with an included POS system and M-Pesa integration. The platform is built using Django REST and Nuxt.
 
     Stack - DjangoRest, Nuxt, Vue Js
+
     **Involvement**
 
     Built the e-commerce, POS, and payment integration features.
@@ -61,6 +65,7 @@ I have been developing software for about 4 years now, I cannot list all the pro
     This is a law firm management system built with Vue.js and .NET Core. The system helps law firms manage operational workflows in a centralized platform.
 
     Stack - .Net Core, VueJs
+
     **Involvement**
 
     Built the system using Vue.js for the frontend and worked with another developer to build the .NET Core backend.
