@@ -8,30 +8,35 @@ Here is a list of some of the wesites that I have been able to work on:
 
     This is an educational center established to train personnel in the food industry, the school offer training for students across the globe.
 
-3. [**Zaibaki**](https://zaibaki.co.ke/)
+
+3. [**FastDuka**](https://fastduka.co.ke/)
+
+    FastDuka is a software company in Nairobi, Kenya, offering POS, HR, invoicing, KRA solutions, and custom software development.
+4. [**Zaibaki**](https://zaibaki.co.ke/)
 
     Zaibaki is an insurance agency based in Nairobi, Kenya.
 
 
-4. [**Frashiah Githinji Advocates**](https://fgadvocates.com/)
+5. [**Frashiah Githinji Advocates**](https://fgadvocates.com/)
 
    Frashiah Githinji is a Kenyan Lawyer who spcializes in family law. This websites showcases information about her law firm.
 
 
 
 
-5. [**Piczangu**](https://piczangu.com/)
+6. [**Piczangu**](https://piczangu.com/)
 
     Piczangu is a photo storage platform that allows users to store photos and retrieve them using AI/ML-enabled facial recognition.
 
 
-6. [**Mcc Ministries Website** ](https://mccministries.com/)
+
+
+7. [**Mcc Ministries Website** ](https://mccministries.com/)
 
     This is a website for a Nairobi based church
 
     
 
-7. [**EAC Rapidly deployable experts pool**](http://rde.eachq.org/) 
+8. [**EAC Rapidly deployable experts pool**](http://rde.eachq.org/) 
 
     This is a platform developed for the East African community with the aim of creating a database of medical experts across the East African region
-
