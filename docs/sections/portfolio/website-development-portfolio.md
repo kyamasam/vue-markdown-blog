@@ -8,13 +8,7 @@ Here are some of the websites and web platforms that I have worked on, grouped b
 
     Sky World Limited is a fintech company in Nairobi, Kenya, licensed by the Central Bank of Kenya (CBK) and the Communications Authority (CA). The company provides mobile and payment services through all Kenyan mobile network operators, offering solutions for microfinance banks, banks, SACCOs, and other financial institutions.
 
-2. [**Zaibaki**](https://zaibaki.co.ke/)
 
-    Zaibaki is an insurance agency based in Nairobi, Kenya.
-
-3. [**Frashiah Githinji Advocates**](https://fgadvocates.com/)
-
-    Frashiah Githinji is a Kenyan lawyer who specializes in family law. This website showcases information about her law firm.
 
 ## SaaS Websites and Web Platforms
 
@@ -26,13 +20,13 @@ Here are some of the websites and web platforms that I have worked on, grouped b
 
     Smart Invoice is an integrated KRA tax compliance solution that connects retail management and invoicing software to eTIMS through VSCU, OSCU, and API integrations.
 
-3. [**Piczangu**](https://piczangu.com/)
+3. [**LitCareers**](https://www.litcareers.org/)
+
+    LitCareers is a job board that connects job seekers with career opportunities.
+4. [**Piczangu**](https://piczangu.com/)
 
     Piczangu is a photo storage platform that allows users to store photos and retrieve them using AI/ML-enabled facial recognition.
 
-4. [**EAC Rapidly Deployable Experts Pool**](http://rde.eachq.org/)
-
-    This platform was developed for the East African Community to create a database of medical experts across the East African region.
 
 ## Education and Community Websites
 
@@ -50,8 +44,13 @@ Here are some of the websites and web platforms that I have worked on, grouped b
 
     Lush & Lux is an online store offering elegant interior decor, modern furniture, and stylish home essentials in Kenya.
 
-## Careers and Job Boards
+## Other Business Websites
 
-1. [**LitCareers**](https://www.litcareers.org/)
 
-    LitCareers is a job board that connects job seekers with career opportunities.
+2. [**Zaibaki**](https://zaibaki.co.ke/)
+
+    Zaibaki is an insurance agency based in Nairobi, Kenya.
+
+3. [**Frashiah Githinji Advocates**](https://fgadvocates.com/)
+
+    Frashiah Githinji is a Kenyan lawyer who specializes in family law. This website showcases information about her law firm.
