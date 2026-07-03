@@ -11,18 +11,18 @@ Here are some of the websites and web platforms that I have worked on, grouped b
 
 
 ## SaaS Websites and Web Platforms
-
-1. [**FastDuka**](https://fastduka.co.ke/)
-
-    FastDuka is a software company in Nairobi, Kenya, offering POS, HR, invoicing, KRA solutions, and custom software development.
-
-2. [**Smart Invoice**](https://smartinvoice.co.ke/)
+1. [**Smart Invoice**](https://smartinvoice.co.ke/)
 
     Smart Invoice is an integrated KRA tax compliance solution that connects retail management and invoicing software to eTIMS through VSCU, OSCU, and API integrations.
 
-3. [**LitCareers**](https://www.litcareers.org/)
+2. [**LitCareers**](https://www.litcareers.org/)
 
     LitCareers is a job board that connects job seekers with career opportunities.
+
+3. [**FastDuka**](https://fastduka.co.ke/)
+
+    FastDuka is a software company in Nairobi, Kenya, offering POS, HR, invoicing, KRA solutions, and custom software development.
+
 4. [**Piczangu**](https://piczangu.com/)
 
     Piczangu is a photo storage platform that allows users to store photos and retrieve them using AI/ML-enabled facial recognition.
